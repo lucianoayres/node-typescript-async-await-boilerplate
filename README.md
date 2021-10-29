@@ -4,10 +4,10 @@ A boilerplate for building Node.js applications using TypeScript with async/awai
 
 ### Dependencies
 
-- @tsconfig/recommended
-- ts-node
-- typescript
-- axios (optional)
+- [@tsconfig/recommended](https://www.npmjs.com/package/@tsconfig/recommended)
+- [ts-node](https://www.npmjs.com/package/ts-node)
+- [typescript](https://www.npmjs.com/package/typescript)
+- [axios](https://www.npmjs.com/package/axios) (optional)
 
 ## Setup
 
