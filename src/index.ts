@@ -7,7 +7,7 @@ interface ITodo {
   completed: boolean
 }
 
-async function apiGetPosts(): Promise<ITodo> {
+async function apiGetTodo(): Promise<ITodo> {
   const response = await axios.get(
     'https://jsonplaceholder.typicode.com/todos/1'
   )
@@ -15,6 +15,6 @@ async function apiGetPosts(): Promise<ITodo> {
   return data
 }
 
-const response = await apiGetPosts()
+const response = await apiGetTodo()
 
 console.log(response)
