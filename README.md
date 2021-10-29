@@ -2,6 +2,13 @@
 
 A boilerplate for building Node.js applications using TypeScript with async/await support at the top level of files.
 
+### Dependencies
+
+- @tsconfig/recommended
+- ts-node
+- typescript
+- axios (optional)
+
 ## Setup
 
 ### Step 1
