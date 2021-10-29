@@ -31,7 +31,7 @@ yarn
 
 ## Usage
 
-This command runs ['./src/index.ts'](https://github.com/lucianoayres/node-typescript-async-await-boilerplate/blob/main/src/index.ts) script on node and returns an asynchronous response to a Rest API example request on the console:
+This command runs ['./src/index.ts'](https://github.com/lucianoayres/node-typescript-async-await-boilerplate/blob/main/src/index.ts) script on node and returns an asynchronous response from a Rest API example request on the console:
 
 ```sh
 npm start
