@@ -1,0 +1,8 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World", "author": "Joe" },
+    { "id": 2, "title": "Fantastic", "author": "John" },
+    { "id": 3, "title": "Amazing", "author": "Alice" },
+    { "id": 4, "title": "Awesome", "author": "Jade" }
+  ]
+}
