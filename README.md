@@ -1,6 +1,6 @@
 ## About
 
-A boilerplate for building Node.js applications using TypeScript with async/await support on the top level of files.
+A boilerplate for building Node.js applications using TypeScript with async/await support at the top level of files.
 
 ### Dependencies
 
